@@ -29,7 +29,7 @@
 (require 'cl)
 (require 'pcmpl-git)
 
-(defvar git-documentation-dir "Documentation"
+(defvar git-documentation-dir "~/play/gitster/Documentation"
   "The directory containing asciidoc sources for git documentation.
 Normally it is the 'Documentation' direcotry under top-level git source.")
 
